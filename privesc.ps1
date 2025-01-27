@@ -1,5 +1,4 @@
 function Invoke-Privesc {
-
 <#
 .SYNOPSIS
 Author: Jakub Palaczynski
