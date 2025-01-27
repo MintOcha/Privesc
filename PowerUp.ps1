@@ -1,6 +1,7 @@
 <#
 
-PowerUp aims to be a clearinghouse of common Windows privilege escalation
+PowerUp aims to be 
+clearinghouse of common Windows privilege escalation
 vectors that rely on misconfigurations. See README.md for more information.
 
 Author: @harmj0y
